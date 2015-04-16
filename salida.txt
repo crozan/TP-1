@@ -1,0 +1,9 @@
+Escriba su nombre y apellido: 
+Es usted hombre o mujer? Responda H/M 
+Bienvenida cynthia rozan
+La estructura de la operacion sera la siguiente: x operador y
+Escriba un valor para x: 
+Escriba un valor para y: 
+Escriba un operador (+,-,/,*): 
+El resultado de su operacion es: 2342/343 = 6.82799
+Gracias cynthia por utilizar este programa. Hasta luego!
